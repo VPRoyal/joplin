@@ -47,7 +47,6 @@ TODO.md
 packages/tools/commit_hook.txt
 packages/tools/github_oauth_token.txt
 lerna-debug.log
-.env
 docs/**/*.mustache
 .idea
 /readme/i18n
@@ -1587,3 +1586,4 @@ packages/tools/website/utils/render.js
 packages/tools/website/utils/types.js
 # AUTO-GENERATED - EXCLUDED TYPESCRIPT BUILD
 
+config.bat
